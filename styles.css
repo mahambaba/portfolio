@@ -100,8 +100,9 @@ footer{
     text-align: center;
     color: green;
     padding: 10px;
-    background-color: beige;
+    background-color: brown;
     margin-top: 10px;
+    font-size: 12px;
 }
 
 @media only screen and (max-width: 700px){
